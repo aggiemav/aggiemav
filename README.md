@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 
 - :globe_with_meridians: Visit http://www.afelder.com to find out more about my professional experience.
 
-- 🌱 I’m currently learning C# and Azure.
+- 🌱 I’m currently learning C#, php, and Azure.
